@@ -1,6 +1,6 @@
 # GaryFilms
 Simple movie and customer information database 
-
+Created by Alec Blevins, Ainsley Ellison, Paisley Brown, and Teddy Taussig. 
 
 Welcome to GaryFilms! Refer to the user manual below: 
 
