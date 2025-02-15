@@ -1,11 +1,11 @@
 # GaryFilms
 Simple movie and customer information database 
+
 Created by Alec Blevins, Ainsley Ellison, Paisley Brown, and Teddy Taussig. 
 
 Welcome to GaryFilms! Refer to the user manual below: 
 
 Menu.java 
-Alec Blevins, Teddy Taussig, Paisley Brown, Ainsley Ellison
 com212/com212_Final
 ⧫ GaryFilms ⧫
 
