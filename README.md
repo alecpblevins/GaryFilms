@@ -5,11 +5,7 @@ Created by Alec Blevins, Ainsley Ellison, Paisley Brown, and Teddy Taussig.
 
 Welcome to GaryFilms! Refer to the user manual below: 
 
-Menu.java 
-com212/com212_Final
-⧫ GaryFilms ⧫
-
-To access the menu’s functions, enter the corresponding number: 
+To access the menu’s functions, run Menu.java and enter the corresponding number: 
 
 1. Create new customer account
 2. Add a movie to the database
